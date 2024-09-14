@@ -1,6 +1,7 @@
 # 📦 DreamWeaver.AI Streamlit App Starter Kit
 
-An AI-powered sleep app designed to help you analyze and improve your sleep quality through advanced AI recommendations. https://dreamweaver-ai.streamlit.app/
+An AI-powered nutritional app designed to help you analyze and improve your health quality through advanced AI recommendations. 
+https://vitatraxx.streamlit.app/
 
 ## Setup Instructions
 
@@ -36,6 +37,8 @@ To keep your API keys and other sensitive information secure, add them to the `s
 ```toml
 [general]
 GOOGLE_API_KEY = "your_api_key"
+GEMINI_API_KEY = "your_api_key"
+USDA_API_KEY = "your_api_key"
 ```
 ### 3. Install Requirements
 
