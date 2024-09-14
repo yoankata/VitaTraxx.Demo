@@ -1,4 +1,4 @@
-# 📦 DreamWeaver.AI Streamlit App Starter Kit
+# 📦 VitaTraxx Streamlit App Starter Kit
 
 An AI-powered nutritional app designed to help you analyze and improve your health quality through advanced AI recommendations. 
 https://vitatraxx.streamlit.app/
